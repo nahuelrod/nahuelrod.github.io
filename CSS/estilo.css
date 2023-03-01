@@ -1,0 +1,61 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: #333;
+}
+
+header {
+	background-color: #333;
+	color: #9ed9f0;
+	padding: 20px;
+}
+
+h1 {
+	margin: 0px;
+}
+
+main {
+	padding: 30px;
+}
+
+section {
+	margin-bottom: 25px;
+}
+
+h2 {
+	margin-top: 10px;
+}
+
+ul {
+	list-style: 0;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+#mi-boton {
+	background-color: blue;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+  }
+  
+  #mi-boton:hover {
+	background-color: red;
+	color: white;
+	transform: scale(1.1);
+  }
